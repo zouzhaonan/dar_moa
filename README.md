@@ -3,7 +3,8 @@ Sample codes and results of the TF enrichment analyses (i.e. DEG-MotifEA, DAR-Mo
 Sample code for performing DAR-ChIPEA on TBT exposure data is provided as ```TBT_example/sh/TBT_dar_chipea.sh```
 
 DAR-ChIPEA can also be easily performed on the websites of ChIP-Atlas (https://chip-atlas.org) following the instructions below.
-![github.pdf](https://github.com/zouzhaonan/dar_moa/files/12297697/github.pdf)
+![github](https://github.com/zouzhaonan/dar_moa/assets/74224230/374c4832-f9a8-4f0f-b32a-b8d47d1bfcc6)
+
 
 Procedures of ChIPEA and MotifEA were detailed at the websites of ChIP-Atlas (https://github.com/inutano/chip-atlas/wiki) and the MEME Suite (https://meme-suite.org/meme/), respectively.
 
